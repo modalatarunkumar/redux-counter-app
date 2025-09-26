@@ -4,7 +4,7 @@ A simple counter application built with **React** and **Redux Toolkit**. It demo
 
 ## 🚀 Live Demo
 
-Check out the live version here:   
+Check out the live version here: [redux-counter-app-pi.vercel.app](https://redux-counter-app-pi.vercel.app/)   
 
 ---
 
@@ -19,7 +19,7 @@ Check out the live version here:
 ---
 
 ## 📸 Screenshots
-
+![App Screenshot](./public/screenshot1.jpg)
 
 
 ---
